@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [Deema Shoul]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-23]
+**GitHub username:** [DEEMA]
 
 ---
 
@@ -10,27 +10,36 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | Windows 11 Home Single Language |
+| OS Build / 25H2 | |
+| RAM | (8.00 GB) |
+| CPU Model | AMD Ryzen 5 5600H with Radeon Graphics (3.30 GHz) |
+| CPU Cores |6|
+| Free Disk Space | (255 GB free) |
+| Internet Speed (Download) | (9.45 Mbps) |
 
 ---
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [<img width="633" height="213" alt="لقطة شاشة 2026-02-23 205135" src="https://github.com/user-attachments/assets/39867f99-88f3-4326-908c-fa3f1a7f0f75" />
+] Screenshot: OS version
+-[<img width="485" height="17" alt="لقطة شاشة 2026-02-23 203823" src="https://github.com/user-attachments/assets/3fe0ccb2-71cf-41e0-9d2d-c7726262cbc1" />
+
+<img width="193" height="139" alt="لقطة شاشة 2026-02-23 203949" src="https://github.com/user-attachments/assets/9b96a545-9f63-4358-9b69-69aa635a7e55" />
+] Screenshot: RAM and CPU details
+- [<img width="193" height="139" alt="لقطة شاشة 2026-02-23 203949" src="https://github.com/user-attachments/assets/31cd8a47-49fe-4106-bc50-9da5e7239bf2" />
+] Screenshot: Free disk space
+-[ <img width="1920" height="1140" alt="Results _ Speedtest by Ookla - Google Chrome 23_02_2026 8_27_58 PM" src="https://github.com/user-attachments/assets/df898034-7f82-4ee1-a81b-124d48e7aabd" />
+] Screenshot: Internet speed test result
+- [<img width="409" height="185" alt="لقطة شاشة 2026-02-23 210829" src="https://github.com/user-attachments/assets/b887f20f-60a9-4fda-8e44-15607a65b9c5" />
+ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ <img width="694" height="81" alt="لقطة شاشة 2026-02-23 211016" src="https://github.com/user-attachments/assets/0a2f2843-74e9-44c9-bb2c-1f55d3da8c79" />
+] Screenshot: `wsl -l -v` output showing WSL 2
+- [<img width="544" height="78" alt="لقطة شاشة 2026-02-23 211108" src="https://github.com/user-attachments/assets/175fb86d-723c-41a9-8275-042b0bd3960e" />
+ ] Screenshot: `wsl --status` output
 
 ---
 
@@ -43,3 +52,5 @@
 ## Device Notes
 
 [Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+
+
