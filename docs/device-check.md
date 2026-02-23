@@ -30,7 +30,8 @@
 ] Screenshot: RAM and CPU details
 - [<img width="193" height="139" alt="لقطة شاشة 2026-02-23 203949" src="https://github.com/user-attachments/assets/31cd8a47-49fe-4106-bc50-9da5e7239bf2" />
 ] Screenshot: Free disk space
--[ <img width="1920" height="1140" alt="Results _ Speedtest by Ookla - Google Chrome 23_02_2026 8_27_58 PM" src="https://github.com/user-attachments/assets/df898034-7f82-4ee1-a81b-124d48e7aabd" />
+-[<img width="209" height="123" alt="لقطة شاشة 2026-02-23 204014" src="https://github.com/user-attachments/assets/e367e439-935c-4e06-95a1-2a6cf9198ec0" />
+
 ] Screenshot: Internet speed test result
 - [<img width="409" height="185" alt="لقطة شاشة 2026-02-23 210829" src="https://github.com/user-attachments/assets/b887f20f-60a9-4fda-8e44-15607a65b9c5" />
  ] Screenshot: Admin rights confirmed
