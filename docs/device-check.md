@@ -11,7 +11,7 @@
 | Specification | Your value |
 |---------------|------------|
 | Operating System | Windows 11 Home Single Language |
-| OS Build / 25H2 | |
+| OS Build  |25H2 |
 | RAM | (8.00 GB) |
 | CPU Model | AMD Ryzen 5 5600H with Radeon Graphics (3.30 GHz) |
 | CPU Cores |6|
