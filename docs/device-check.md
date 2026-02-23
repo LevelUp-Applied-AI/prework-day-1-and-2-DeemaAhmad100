@@ -46,7 +46,7 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [ "Confirmed via System Settings"]
 
 ---
 
