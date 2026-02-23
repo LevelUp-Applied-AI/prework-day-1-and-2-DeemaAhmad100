@@ -1,4 +1,4 @@
-# Device Check — [Deema Shoul]
+# Device Check — [Deema Shboul]
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [2026-02-23]
